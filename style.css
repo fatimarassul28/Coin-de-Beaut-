@@ -1,0 +1,767 @@
+.section1 {
+    background: linear-gradient(to top , rgba(0,0,0,0.5)50% , rgba(0,0,0,0.5)50%), url(https://www.femmemagazine.fr/wp-content/uploads/2020/02/media-maquillage-produits.jpg) ;
+    width: 100%;
+    height: 400px;
+}
+nav {
+    display: flex;
+    top: 0;
+    left: 0;
+}
+nav ul {
+    display: flex;
+    margin-left: 550px;
+    margin-top: 15px;
+}
+nav ul li {
+    margin: 15px;
+    color:lightsalmon;
+    list-style: none;
+    font-size: 25px;
+}
+nav ul li a {
+    color: lightsalmon;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    color: lemonchiffon;
+}
+.title1 {
+    margin-left: 50px;
+    color: lightsalmon;
+    font-size: 35px;
+}
+.h1sect1 {
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    padding: 0;
+}
+.psect1 {
+    text-align: center;
+    color: lightsalmon;
+    font-size: 20px;
+    padding: 0;
+    margin-top: -20px;
+}
+.btton A{
+    display: inline;
+    background-color: white;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    border: 4px double #cccccc;
+    color: lightsalmon;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 25px;
+    width: 500px;
+    border-bottom: 20px;
+    margin-right: -1300px;
+    margin-top: 60px;
+}
+.h1sect2 {
+    text-align: center;
+    font-size: 35px;
+}
+.divsect2 {
+    display: flex;
+    
+}
+.img1sect2 {
+    margin-left: 250px;
+}
+.psect2 {
+    font-size: 20px;
+    margin-left: 30px;
+    padding: 30px;
+}
+.sect21 {
+    display: flex;
+}
+.psect21 {
+    margin-left: 200px;
+    font-size:20px ;
+    padding: 30px;
+}
+.img2sect2 {
+
+}
+.sect22 {
+    display: flex;
+}
+.img3sect2 {
+    margin-left: 250px;
+    height: 250px;
+}
+.psect22 {
+font-size: 20px;
+padding: 30px;
+}
+
+.footer {
+    padding:60px;
+    display: flex;
+    background-color:lightsalmon;
+    height: 20px;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 200;
+}
+footer ul {
+    display: flex;
+    margin-left: 50px;
+    margin-top: -25px;
+}
+ul li {
+    color: white;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 25px;
+    list-style: none;
+}
+ul li a {
+    color: white;
+    display: flex;
+   
+}
+.h1fotttt {
+    color: white;
+    margin-left: 90px;
+    margin-top: -30px;
+}
+.h1pro {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+    padding: 10px;
+    border: solid 5px rgba(231, 12, 12, 0.027);
+    background-color: darkgray;
+height: 30px;
+width: 250px;
+margin-left: 500px;
+}
+.htitle2 {
+    margin-left: 30px;
+    font-size: 45px;
+}
+.fondteint {
+    display: flex;
+    margin-left: 90px;
+    padding: 0;
+    
+}
+.img1div1 {
+    margin-left: 40px;
+}
+.desc1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+}
+.prix1 {
+     font-size: 30px;
+     margin-top: 10px;
+     color: rosybrown;
+}
+.img2div1 {
+    margin-left: 180px;
+}
+.desc2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+    margin-left: 100px;
+}
+.prix2 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown;
+    margin-left: 120px;
+}
+.img3div1 {
+    margin-left: 175px;
+}
+.desc3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+    margin-left: 100px;
+}
+.prix3 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown;
+    margin-left: 120px;
+}
+.img4div1 {
+    margin-left: 150px;
+}
+.desc4 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+    margin-left: 100px;
+}
+.prix4 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown;
+    margin-left: 120px;
+}
+.fondteint2 {
+    display: flex;
+    padding-left: 50px;
+    margin-top: 80px;
+}
+.img5div1 {
+    margin-left: 150px;
+}
+.desc5 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.prix5 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 215px;
+    color: rosybrown;
+}
+.img6div1 {
+    margin-left: 250px;
+}
+.desc6 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -45px;
+    margin-left: 200px;
+}
+.prix6 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 215px;
+    color: rosybrown;
+}
+.htitle3 {
+    margin-left: 30px;
+    font-size: 45px;
+}
+.poudre {
+    display: flex;
+}
+.img1p {
+    margin-left: 90px;
+    height: 200px;
+}
+.descr1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    margin-left: 140px;
+}
+.prix1p {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 130px;  
+}
+.img2p {
+    margin-left: 150px;
+    height: 200px;
+}
+.descr2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.prix2p {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 190px; 
+}
+.img3p {
+    margin-left: 150px;
+    margin-top: 50px;
+    height: 100px;
+}
+.descr3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 120px;
+    margin-left: 210px;
+}
+.prix3p {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 220px;  
+}
+.poudre2 {
+    display: flex;
+}
+.img4p{
+    margin-left: 230px;
+margin-top: 50px;
+height: 100px;
+}
+.descr4 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 180px;
+    margin-left: 250px;
+}
+.prix4p {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 280px;
+}
+.img5p {
+    margin-left: 290px;
+    height: 100px;
+    margin-top: 50px;
+}
+.descr5 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 200px;
+    margin-left: 300px;
+}
+.prix5p {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 300px;
+}
+.htitle4 {
+    margin-left: 30px;
+    font-size: 45px;   
+}
+.h1ral {
+    display: flex;
+}
+.img1ral {
+    margin-left: 180px; 
+}
+.descri1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 140px;
+}
+.prix1ral {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 150px;
+}
+.img2ral {
+    margin-left: 230px;
+    
+    
+}
+.descri2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 190px;
+}
+.prix2ral {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 190px;
+    
+}
+.img3ral {
+    margin-left: 210px;
+}
+.descri3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 180px;
+}
+.prix3ral {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 190px;
+}
+.h2ral {
+    display: flex;
+}
+.img4ral {
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.descri4 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 250px; 
+}
+.prix4ral {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 270px;
+}
+.img5ral {
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.descri5 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 180px;
+}
+.prix5ral {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 200px;
+}
+.btton B{
+      display: inline;
+    background-color: black;
+    border-radius: 60px;
+    margin-bottom: 10px;
+    border: 4px double #000000;
+    color: lightsalmon;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 25px;
+    width: 500px;
+    border-bottom: 20px;
+    margin-right: -1300px;
+    margin-top: 90px;
+
+}
+.title1p {
+    font-size: 45px;
+    margin-left: 30px;
+}
+.div1 {
+    display: flex;
+}
+.imgdiv11 {
+margin-left: 180px;
+}
+.descrip1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 140px;
+
+}
+.prix1b {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 150px;
+}
+.imgdiv12 {
+margin-left: 220px;
+}
+.descrip2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 190px;
+}
+.prix2b {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 190px;
+}
+.imgdiv13 {
+margin-left:270px;
+}
+.descrip3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 180px;
+}
+
+.prix3b {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 230px;
+}
+.div2 {
+    display: flex;
+}
+.img1div2 {
+margin-left: 160px;
+margin-top: 40px;
+}
+.descript1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 140px;
+}
+.prix1g {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 150px;
+}
+.img2div2 {
+margin-left: 220px;
+margin-top: 40px;
+}
+.descript2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 200px;
+}
+.prix2g {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 200px;
+}
+.img3div2 {
+margin-left: 190px;
+margin-top: 40px;
+}
+.descript3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 200px;
+}
+.prix3g {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 250px;
+}
+.title1f {
+    margin-left: 30px;
+    font-size: 45px;
+}
+.fards1 {
+    display: flex;
+}
+.img1f {
+    margin-left: 100px;
+}
+.descripti1 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -30px;
+    margin-left: 190px;
+}
+.prix1f {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 200px;
+}
+.img2f {
+    margin-left: 190px;
+    margin-top: 10px;
+}
+.descripti2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -30px;
+    margin-left: 200px;
+}
+.prix2f {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 220px;
+}
+.img3f {
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.descripti3 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 220px;
+}
+.prix3f {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 270px;
+}
+.fards2 {
+    display: flex;
+}
+.img21 {
+    margin-left: 200px;
+    margin-top: 40px;
+}
+.descriptio1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 200px;
+}
+.prix21 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 230px;
+}
+.img22 {
+    margin-left: 210px;
+    margin-top: 40px;
+}
+.descriptio2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    margin-left: 240px;
+}
+.prix22 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 220px;
+}
+.img23 {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.descriptio3 {
+ font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    margin-left: 220px;
+}
+.prix23 {
+    font-size: 30px;
+    margin-top: 10px;
+    color: rosybrown; 
+    margin-left: 270px;
+}
+.buttoncon {
+    margin-top: 40px;
+    color:brown;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 550px;
+    padding: 20px 20px;
+    width: 150px;
+    text-decoration: rosybrown;
+    font-size: 30px;
+}
+.buttoncon :hover {
+    color: rosybrown;
+}
+.hero {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),#4b4b4b),url(https://www.femmemagazine.fr/wp-content/uploads/2020/02/media-maquillage-produits.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form {
+    width: 90%;
+    max-width: 600px;
+}
+.input-group {
+    margin-bottom: 30px;
+    position: relative;
+}
+input , textarea {
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    border: 1px solid #fff;
+    color: #fff;
+    background: transparent;
+    font-size: 15px;
+}
+label {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+    color: #fff;
+    cursor: text;
+    transition: 0.2s;
+}
+input:focus~label,
+input:valid~label,
+textarea:focus~label,
+textarea:valid~label
+{
+    top: -35px;
+    font-size: 14px;
+}
+.row .input-group {
+    flex-basis: 48%;
+}
+.product {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.add-to-cart {
+    background-color: lightsalmon;
+    color: white;
+}
+
+.like-item {
+    background-color: lightsalmon;
+    color: black;
+}
+
+#cart {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#cart-items {
+    list-style-type: none;
+    padding: 0;
+}
+
+#cart-items li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#cart-total {
+    font-weight: bold;
+}
+
+.like-item:hover {
+    text-decoration: underline;
+}
